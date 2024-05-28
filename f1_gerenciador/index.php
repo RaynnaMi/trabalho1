@@ -32,14 +32,16 @@
                   <div data-mdb-input-init class="form-outline mb-4">
                     <label class="form-label" for="form2Example17">*email</label>
                     <input name = "email" type="email" id="form2Example17" class="form-control form-control-lg required" />
-                    <div class="invalid-feedback">Please fill out this field.</div>
-                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">insira dados validos</div>
+                    <div class="valid-feedback">Valido.</div>
    
                   </div>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                     <label class="form-label" for="form2Example27">*Senha</label>
                     <input name = "senha"type="password" id="form2Example27" class="form-control form-control-lg  required" />
+                    <div class="invalid-feedback">insira dados validos</div>
+                    <div class="valid-feedback">Valido.</div>
                   </div>
 
                   <div class="pt-1 mb-4">
